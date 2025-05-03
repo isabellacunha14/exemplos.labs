@@ -1,0 +1,3 @@
+C:/Users/user/exemplos.labs/c/lab4/cmake-build-debug/CMakeFiles/lab4.dir
+C:/Users/user/exemplos.labs/c/lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/exemplos.labs/c/lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
