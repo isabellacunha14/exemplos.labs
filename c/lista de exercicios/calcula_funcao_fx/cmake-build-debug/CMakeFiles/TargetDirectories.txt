@@ -1,0 +1,3 @@
+C:/Users/user/exemplos.labs/c/lista de exercicios/calcula_funcao_fx/cmake-build-debug/CMakeFiles/calcula_funcao_fx.dir
+C:/Users/user/exemplos.labs/c/lista de exercicios/calcula_funcao_fx/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/exemplos.labs/c/lista de exercicios/calcula_funcao_fx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
