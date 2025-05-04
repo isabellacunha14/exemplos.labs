@@ -1,0 +1,3 @@
+C:/Users/user/exemplos.labs/c/lista de exercicios/troca_variavel/cmake-build-debug/CMakeFiles/troca_variavel.dir
+C:/Users/user/exemplos.labs/c/lista de exercicios/troca_variavel/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/exemplos.labs/c/lista de exercicios/troca_variavel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
